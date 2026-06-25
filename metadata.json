@@ -1,0 +1,7 @@
+{
+  "name": "Tubista Pro Master v12, By Marcos Ferreira",
+  "description": "Ferramenta completa para tubistas e encanadores industriais. Criação de isométricos, cálculos de caldeiraria, tabelas de tubulação e assistente IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

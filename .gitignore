@@ -1,0 +1,17 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# ERP - arquivos sensiveis
+data/config.json
+data/ai_config.json
+data/*.key
+data/*.secret
+*.env
+config.json
+secrets.json
