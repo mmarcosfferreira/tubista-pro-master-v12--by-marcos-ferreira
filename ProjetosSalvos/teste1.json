@@ -1,0 +1,76 @@
+{
+  "id": "mmiemk82gsbwp2k92wb",
+  "name": "teste1",
+  "updatedAt": 1773013779938,
+  "segments": [
+    {
+      "id": "mmielis2px9adzkick9",
+      "start": {
+        "x": -9,
+        "y": 4,
+        "z": 0
+      },
+      "end": {
+        "x": 1,
+        "y": 4,
+        "z": 0
+      },
+      "type": "PIPE",
+      "size": 4,
+      "color": "#d1d5db",
+      "hatchType": "NONE"
+    },
+    {
+      "id": "mmieln951eoiyek7tx8",
+      "start": {
+        "x": 1,
+        "y": 4,
+        "z": 0
+      },
+      "end": {
+        "x": 1,
+        "y": -4,
+        "z": 0
+      },
+      "type": "PIPE",
+      "size": 4,
+      "color": "#d1d5db",
+      "hatchType": "NONE"
+    },
+    {
+      "id": "mmiem1mn72nbpfv514v",
+      "start": {
+        "x": 1,
+        "y": -4,
+        "z": 0
+      },
+      "end": {
+        "x": 8.071067811865476,
+        "y": -11.071067811865476,
+        "z": 0
+      },
+      "type": "PIPE",
+      "size": 4,
+      "color": "#d1d5db",
+      "customLength": "1000",
+      "angleLabel": "45°",
+      "hatchType": "HORIZONTAL"
+    }
+  ],
+  "fittings": [],
+  "settings": {
+    "weldGap": 5,
+    "fittingStandard": "ANSI B16.9",
+    "defaultFlangeType": "WN",
+    "gasketType": "NonMetallic",
+    "gasketThickness": 3,
+    "defaultWeldType": "WELD_FIELD",
+    "fluidIdentificationStandard": "ABNT NBR 6493",
+    "fluidIdentificationCode": "VAPOR",
+    "fluidColor": "#d1d5db",
+    "pipeMaterialStandard": "ASTM_A106",
+    "pipeConstructionType": "SEM_COSTURA",
+    "pipeFinishType": "PRETO",
+    "defaultElbowProfile": "LR_1_5D"
+  }
+}

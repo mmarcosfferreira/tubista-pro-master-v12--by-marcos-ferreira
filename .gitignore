@@ -7,6 +7,14 @@ coverage/
 .env*
 !.env.example
 
+# Backup copies
+*copy*
+*copy*/
+repo/
+
+# Vercel
+.vercel/
+
 # ERP - arquivos sensiveis
 data/config.json
 data/ai_config.json
