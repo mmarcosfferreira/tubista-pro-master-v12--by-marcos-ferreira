@@ -23,3 +23,6 @@ data/*.secret
 *.env
 config.json
 secrets.json
+
+# Auto-protecao ERP — grandes/sensiveis
+esbuild.exe
